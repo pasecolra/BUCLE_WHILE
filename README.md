@@ -1,2 +1,2 @@
 # BUCLE_WHILE
-repositorio para entender el bucle while
+# repositorio para entender el bucle while
